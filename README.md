@@ -1,2 +1,2 @@
 # Temperature-and-Humidity-Sensor-using-Arduino-IDE
-This is a working tenperature and humidity sensor using task management in Arduino IDE.
+In this arduino based project, ambient temperature and humidity is measured and displayed on a LCD screen. A combined temeperature and humidity sensor DHT11 is used with Arduino UNO to develop this project. The LCD screen displays the Temperature and Humidity in real-time and the green LED switches off and red LED switches on when the temperature and humidity increase above safe levels
